@@ -8,13 +8,19 @@ Một ứng dụng web tương tác để trực quan hóa thuật toán Dijkstr
 
 ## 📑 Mục Lục
 
-- [Links](#links)
-- [Tính Năng Chính](#tính-năng-chính)
-- [Cài Đặt](#cài-đặt)
-- [Cách Sử Dụng](#cách-sử-dụng)
-- [Cấu Trúc Dự Án](#cấu-trúc-dự-án)
-- [Công Nghệ Sử Dụng](#công-nghệ-sử-dụng)
-- [Giấy Phép](#giấy-phép)
+- [🔗 Links](#-links)
+- [✨ Tính Năng Chính](#-tính-năng-chính)
+  - [🎨 Trực quan hóa thuật toán Dijkstra](#1--trực-quan-hóa-thuật-toán-dijkstra)
+  - [🎮 Game Mê Cung](#2--game-mê-cung)
+  - [🛠️ Sandbox Đường Đi Ngắn Nhất](#3--sandbox-đường-đi-ngắn-nhất)
+- [💻 Cài Đặt](#-cài-đặt)
+- [🎮 Cách Sử Dụng](#-cách-sử-dụng)
+  - [Trực quan hóa Dijkstra](#trực-quan-hóa-dijkstra)
+  - [Game Mê Cung](#game-mê-cung)
+  - [Sandbox](#sandbox)
+- [📁 Cấu Trúc Dự Án](#-cấu-trúc-dự-án)
+- [🛠️ Công Nghệ Sử Dụng](#-công-nghệ-sử-dụng)
+- [📄 Giấy Phép](#-giấy-phép)
 
 ## 🔗 Links
 
